@@ -1,6 +1,4 @@
-/* =========================================
-   TYPING EFFECT
-========================================= */
+
 
 const text =
     "We create beautiful digital experiences with creativity and passion.";
@@ -25,12 +23,6 @@ function typeWriter() {
 
 
 typeWriter();
-
-
-
-/* =========================================
-   COUNTDOWN
-========================================= */
 
 /*
    Countdown will finish on:
